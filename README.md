@@ -50,3 +50,10 @@
 - **xml.etree.ElementTree** — для обработки XML.
 - **json** — для работы с JSON.
 - **datetime** — для работы с датами и временем.
+
+
+Запуск тестов
+
+
+![image](https://github.com/user-attachments/assets/735742c6-a1ee-4269-a00f-0730e2c6e7fd)
+
